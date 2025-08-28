@@ -34,8 +34,8 @@ export function AboutSection() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Atuo na área técnica de reparos em celulares e sou estudante de Engenharia de Software. 
-                Combino experiência prática em hardware com conhecimento teórico em desenvolvimento de software.
+                Sou estudante de Engenharia de Software e também atuo na área técnica de 
+                reparos em celulares, combinando conhecimento teórico e experiência prática.
               </p>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
