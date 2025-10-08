@@ -72,14 +72,14 @@ export function HeroSection() {
           {/* Social Links */}
           <div className="flex justify-center space-x-6 pt-8">
             <a
-              href="mailto:buenogustavo@gmail.com"
+              href="mailto:buenogustavo436@gmail.com"
               className="text-muted-foreground hover:text-primary transition-smooth hover:scale-110"
               aria-label="Email"
             >
               <Mail className="h-6 w-6" />
             </a>
             <a
-              href="https://github.com/gustavobueno"
+              href="https://github.com/GuMoBu488"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-smooth hover:scale-110"
@@ -88,7 +88,7 @@ export function HeroSection() {
               <Github className="h-6 w-6" />
             </a>
             <a
-              href="https://linkedin.com/in/gustavo-moreira-bueno"
+              href="https://www.linkedin.com/in/gustavo-moreira-bueno-87713937a/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-smooth hover:scale-110"
